@@ -1,0 +1,30 @@
+{
+  "name": "tech_scrape",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "y",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.9.23",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "y",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sobernheim-d/Tech_Scrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sobernheim-d/Tech_Scrape/issues"
+  },
+  "homepage": "https://github.com/Sobernheim-d/Tech_Scrape#readme"
+}
